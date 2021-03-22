@@ -11,6 +11,7 @@ git mul (y)
     
 def func()
     return yy
-    divide
+    divide(x/y)
+    
     
     
